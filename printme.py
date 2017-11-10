@@ -1,2 +1,2 @@
 print('New Push')
-print('New Push Revisite')
+print('New Push Revisited')
